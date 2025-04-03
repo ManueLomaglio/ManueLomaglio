@@ -11,7 +11,8 @@
 
 - 🤔 &nbsp; Exploring new technologies, building muscle in the gym and trying not to go insane while sewing clothes.
 - 🎓 &nbsp; I've studied mechatronics and automotation engineering at University Federico II.
-- 🌱 &nbsp; Learning more about node.js and sql 
+- 🌱 &nbsp; Learning more about node.js and sql
+- 🐈‍⬛ &nbsp; I love cats (my orange cat is called "Cap e Bomb")
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack</h3> 
 
