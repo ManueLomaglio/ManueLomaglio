@@ -1,6 +1,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Amchuz&hide=["stars"]&show_icons=true)
+
 
 <!--
 **ManueLomaglio/ManueLomaglio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
