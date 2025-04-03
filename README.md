@@ -10,8 +10,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
 - 🤔 &nbsp; Exploring new technologies, building muscle in the gym and trying not to go insane while sewing clothes.
-- 🎓 &nbsp; I've studied mechatronics and automotation engeniring at University Federico II.
-- 🌱 &nbsp; Learning more about node.js and sql  
+- 🎓 &nbsp; I've studied mechatronics and automotation engineering at University Federico II.
+- 🌱 &nbsp; Learning more about node.js and sql 
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack</h3> 
 
