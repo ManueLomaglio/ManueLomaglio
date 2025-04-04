@@ -9,7 +9,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
-- 🤔 &nbsp; Exploring new technologies, building muscle in the gym and trying not to go insane while sewing clothes.
+- 🤔 &nbsp; Exploring new technologies, doing calcs for my gacha games and trying not to go insane. 
 - 🎓 &nbsp; I've studied mechatronics and automotation engineering at University Federico II.
 - 🌱 &nbsp; Learning more about node.js and sql
 - 🐈‍⬛ &nbsp; I love cats (my orange cat is called "Cap e Bomb")
