@@ -1,7 +1,7 @@
 
 
 
-<img align="center" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
 
 
 
