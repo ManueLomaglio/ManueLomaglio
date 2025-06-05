@@ -9,21 +9,20 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
-- 🤔 &nbsp; Exploring new technologies, doing calcs for my gacha games and trying not to go insane. 
+- 🤔 &nbsp; Exploring new technologies, playing borderlands games and trying not to go insane. 
 - 🎓 &nbsp; I've studied mechatronics and automation engineering at University Federico II.
 - 🌱 &nbsp; Learning more about node.js and sql
-- 🐈‍⬛ &nbsp; I love cats (my orange cat is called "Cap e Bomb")
+- 🐈‍⬛ &nbsp; I love cats (my orange cat is called "Cap' e Bomb")
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack</h3> 
 
 - 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)  
+ ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 - 🛢 &nbsp;
