@@ -10,9 +10,9 @@
 <h3> 👨🏻‍💻 &nbsp;About Me <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
 
 - 🤔 &nbsp; Exploring new technologies, playing borderlands games and trying not to go insane. 
-- 🎓 &nbsp; I've studied mechatronics and automation engineering at University Federico II.
-- 🌱 &nbsp; Learning more about node.js and sql
-- 🐈‍⬛ &nbsp; I love cats (my orange cat is called "Cap' e Bomb")
+- 🎓 &nbsp; I'm studying mechatronics and automation engineering at University Federico II.
+- 🌱 &nbsp; Learning more about Kubernetis and cloud computing.
+- 🐈‍⬛ &nbsp; I love cats (my orange cat is called "Cap' e Bomb").
 
 <h3> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;Tech Stack</h3> 
 
@@ -34,11 +34,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 - 🖥 &nbsp;
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
-
-<br/>
-
-
-</a>
 
 <br/>
 
